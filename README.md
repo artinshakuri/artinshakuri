@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi I'm a Junior C# / .NET Developer
 
-<!--
-**artinshakuri/artinshakuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently focusing on improving my backend development skills by building
+real-world projects using ASP.NET Core.
 
-Here are some ideas to get you started:
+### What I'm learning and practicing
+- ASP.NET Core Web API
+- Entity Framework Core
+- Clean Architecture basics
+- SQL Server
+- Git & GitHub
+- Developing BSS
+- HTML/CSS/JS/LeafletMap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals
+- Write clean and readable code
+- Understand real-world backend concepts
+- Prepare myself for remote and freelance opportunities
+
+📫 Contact:
+- Email: artins9shakori@gmail.com
+- LinkedIn: www.linkedin.com/in/artin-shakuri-ba20a8264
